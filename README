@@ -1,0 +1,1 @@
+# switch uses -c unlike branch command which uses the -b for creating a new branch
