@@ -1,2 +1,6 @@
 sample data file
 checkout in master
+new line added for checking
+create 2 branches form master feature and feature_2.0
+
+new branche feature_3.0 create form feature_2.0
