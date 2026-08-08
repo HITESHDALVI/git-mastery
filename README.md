@@ -7,3 +7,5 @@ git remote add origin git@github.com:HITESHDALVI/git-mastery.git
 git push -u origin main
 
 # We add above commads to register the first branch in git history
+
+# git do not track empty folder
